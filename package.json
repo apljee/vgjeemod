@@ -1,0 +1,14 @@
+{
+
+	"id":"df57f758-25da-408e-818b-a42d2b8f2b62",
+	"name":"JeeVG Mod",
+	"version":"0.0.1",
+	"author":"apljee & AnthonyVGNerd",
+	"url":"",
+	"description":"Created with UltimateLib/UltimateModEditor.",
+	"main":"./source.js",
+	"dependencies":{
+		"gdt-modAPI":"0.1.x"
+		}
+	
+}
